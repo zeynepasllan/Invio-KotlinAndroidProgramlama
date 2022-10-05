@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="travelBaslik">Bali, Island</string>
+    <string name="travelAlan">130km</string>
+    <string name="travelHavaDurum">Mostly sunny</string>
+    <string name="travelHakkinda">About the place</string>
+    <string name="travelAciklama">Bali Island is a small beautiful island and a part of Indonesia archipelago, and the most famous of Indonesian tourism in the world.</string>
+    <string name="fiyatYazi">$600</string>
+    <string name="buttonYazi">BUY NOW</string>
+    <string name="digerResim">More Image</string>
+</resources>

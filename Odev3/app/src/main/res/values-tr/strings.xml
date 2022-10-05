@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="travelBaslik">Bali, Island</string>
+    <string name="travelAlan">130km</string>
+    <string name="travelHavaDurum">Çoğunlukla güneşli</string>
+    <string name="travelHakkinda">Hakkında</string>
+    <string name="travelAciklama">Bali Adası küçük ve güzel bir adadır ve Endonezya takımadalarının bir parçasıdır ve dünyadaki Endonezya turizminin en ünlüsüdür.</string>
+    <string name="fiyatYazi">11.148 ₺</string>
+    <string name="buttonYazi">SATIN AL</string>
+    <string name="digerResim">Diğer Resimler</string>
+
+</resources>
